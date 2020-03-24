@@ -1,0 +1,10 @@
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/bin/Debug/netcoreapp2.1/Lab04_TicTacToe.deps.json
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/bin/Debug/netcoreapp2.1/Lab04_TicTacToe.runtimeconfig.json
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/bin/Debug/netcoreapp2.1/Lab04_TicTacToe.runtimeconfig.dev.json
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/bin/Debug/netcoreapp2.1/Lab04_TicTacToe.dll
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/bin/Debug/netcoreapp2.1/Lab04_TicTacToe.pdb
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.csprojAssemblyReference.cache
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.AssemblyInfoInputs.cache
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.AssemblyInfo.cs
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.dll
+/Users/carringtonbeard/codefellows/401/seattle-dotnet-401d10/Class04/StarterCode/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/netcoreapp2.1/Lab04_TicTacToe.pdb

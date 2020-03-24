@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="XUnitTestTicTacToe\obj\XUnitTestTicTacToe.csproj.nuget.dgspec.json" />
+    <None Remove="XUnitTestTicTacToe\obj\Debug\netcoreapp3.1\XUnitTestTicTacToe.assets.cache" />
+    <None Remove="XUnitTestTicTacToe\obj\Debug\netcoreapp3.1\XUnitTestTicTacToe.csprojAssemblyReference.cache" />
+  </ItemGroup>
+</Project>
